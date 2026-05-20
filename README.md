@@ -25,7 +25,7 @@ actionable insights for college administration.
 ## Project Structure
 college-student-analytics/
 │
-├── college_student_analytics.ipynb  # Main analysis notebook
+├── college_student_analytics.ipynb   # Main analysis notebook
 ├── students.csv                      # Student master data
 ├── attendance.csv                    # Monthly attendance records
 ├── avg_attendance.csv                # Student-wise avg attendance
