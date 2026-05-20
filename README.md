@@ -17,8 +17,28 @@ actionable insights for college administration.
 - **Power BI** — Interactive Dashboard
 - **SQL** — Data querying
 - **Data** — 5,000 students, 10 months, 6 courses
+  
 
+## Dashboard Preview
 - <img width="572" height="323" alt="dashcollege1" src="https://github.com/user-attachments/assets/169f6b95-2d6f-4c25-a4aa-e7f721860a42" />
+
+## Project Structure
+college-student-analytics/
+│
+├── college_student_analytics.ipynb  # Main analysis notebook
+├── students.csv                      # Student master data
+├── attendance.csv                    # Monthly attendance records
+├── avg_attendance.csv                # Student-wise avg attendance
+├── marks.csv                         # Subject-wise marks data
+├── college.pbix                      # Power BI dashboard file
+├── college_dashboard.pdf             # Dashboard PDF export
+└── charts/                           # All visualization images
+
+## Key Findings
+- **BA** has highest enrollment (1,800 students)
+- **PG students** have better attendance than UG (82% vs 75%)
+- **December** shows lowest attendance across all courses
+- **72%** fee collection rate — 28% students have pending fees
 
 
 ## Key Insights Generated
