@@ -24,15 +24,24 @@ actionable insights for college administration.
 
 ## Project Structure
 college-student-analytics/
+
 │
 ├── college_student_analytics.ipynb   # Main analysis notebook
+
 ├── students.csv                      # Student master data
+
 ├── attendance.csv                    # Monthly attendance records
+
 ├── avg_attendance.csv                # Student-wise avg attendance
+
 ├── marks.csv                         # Subject-wise marks data
+
 ├── college.pbix                      # Power BI dashboard file
+
 ├── college_dashboard.pdf             # Dashboard PDF export
+
 └── charts/                           # All visualization images
+
 
 ## Key Findings
 - **BA** has highest enrollment (1,800 students)
