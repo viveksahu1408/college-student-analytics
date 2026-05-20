@@ -18,6 +18,9 @@ actionable insights for college administration.
 - **SQL** — Data querying
 - **Data** — 5,000 students, 10 months, 6 courses
 
+- <img width="572" height="323" alt="dashcollege1" src="https://github.com/user-attachments/assets/169f6b95-2d6f-4c25-a4aa-e7f721860a42" />
+
+
 ## Key Insights Generated
 - 📊 Course-wise student distribution (BA, BSc, BCom, MA, MSc, MCom)
 - 📈 Monthly attendance trends with 75% threshold tracking
